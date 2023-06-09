@@ -1,0 +1,33 @@
+body {
+    background-color: #1f314f;
+}
+
+.card-box {
+    width: 230px;
+    height: 350px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.card-img {
+    width: 210px;
+    height: 200px;
+    background-color: #1f314f;
+    border-radius: 10px;
+}
+
+.card-img img {
+    width: 120px;
+    height: 120px;
+}
+
+.paragraph-one {
+    font-size: 16px;
+    color: #1f314f;
+
+}
+
+.paragraph-two {
+    font-size: 12px;
+
+}
